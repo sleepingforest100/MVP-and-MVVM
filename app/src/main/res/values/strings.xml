@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVP_and_MVVM</string>
+    <string name="title_1">The phone can not receive notifications and reminders</string>
+    <string name="title_2">There is no sound for task reminders</string>
+    <string name="title_3">After purchasing the PRO version, PRO versions are still not activated.</string>
+    <string name="title_4">4) The phone can not receive notifications and reminders</string>
+    <string name="title_5">5) The phone can not receive notifications and reminders</string>
+    <string name="title_6">6) The phone can not receive notifications and reminders</string>
+    <string name="title_7">7) The phone can not receive notifications and reminders</string>
+    <string name="description">Description</string>
+    <string name="faq">FAQ</string>
+</resources>

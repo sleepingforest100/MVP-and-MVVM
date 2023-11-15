@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/faqMvvmFragment">
+
+    <fragment
+        android:id="@+id/faqMvpFragment"
+        android:name="kz.just_code.mvp_and_mvvm.mvp.FaqMvpFragment"
+        android:label="FaqMvpFragment" />
+    <fragment
+        android:id="@+id/faqMvvmFragment"
+        android:name="kz.just_code.mvp_and_mvvm.mvvm.FaqMvvmFragment"
+        android:label="FaqMvvmFragment" />
+</navigation>
